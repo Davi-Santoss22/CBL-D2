@@ -1,0 +1,2 @@
+Este é um exemplo de texto para testar a ferramenta CLI.
+A ferramenta deve contar palavras, buscar palavras específicas e substituir palavras.
