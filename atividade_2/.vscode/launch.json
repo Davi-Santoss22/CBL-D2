@@ -4,19 +4,19 @@
             "type": "lldb",
             "request": "launch",
             "args": [],
-            "cwd": "${workspaceFolder:atividade_3}",
-            "name": "Debug atividade_3",
-            "program": "${workspaceFolder:atividade_3}/.build/debug/atividade_3",
-            "preLaunchTask": "swift: Build Debug atividade_3"
+            "cwd": "${workspaceFolder:atividade_2}",
+            "name": "Debug atividade_2",
+            "program": "${workspaceFolder:atividade_2}/.build/debug/atividade_2",
+            "preLaunchTask": "swift: Build Debug atividade_2"
         },
         {
             "type": "lldb",
             "request": "launch",
             "args": [],
-            "cwd": "${workspaceFolder:atividade_3}",
-            "name": "Release atividade_3",
-            "program": "${workspaceFolder:atividade_3}/.build/release/atividade_3",
-            "preLaunchTask": "swift: Build Release atividade_3"
+            "cwd": "${workspaceFolder:atividade_2}",
+            "name": "Release atividade_2",
+            "program": "${workspaceFolder:atividade_2}/.build/release/atividade_2",
+            "preLaunchTask": "swift: Build Release atividade_2"
         }
     ]
 }
