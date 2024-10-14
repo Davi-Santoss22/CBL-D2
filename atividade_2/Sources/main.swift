@@ -32,7 +32,7 @@ func main() {
     let arguments = CommandLine.arguments
     
     guard arguments.count > 2 else {
-        print("Uso: MyTool <caminho_arquivo> <comando> [parâmetros]")
+        print("Uso: atividade_2 <caminho_arquivo> <comando> [parâmetros]")
         return
     }
 
